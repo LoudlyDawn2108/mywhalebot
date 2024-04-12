@@ -1,0 +1,2 @@
+# mywhalebot
+discord bot 🐋
